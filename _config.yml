@@ -2,7 +2,7 @@ title: Manoa trade your stuff
 description: ----NEED ADD DESCRIPTION----
 google_analytics:
 show_downloads: false
-theme: minima
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff
