@@ -19,10 +19,11 @@ Contributors: Hok Wai Chan, Joel Vanta, Daniel Kim, Kairi Tanaka
   <li>Make offer on item page</li>
   <li>Notify admin page</li>
 
-  <h2> 3. Use case ideas </h2>
 
-
-  <h2> 4. Beyond the basic </h2>
+<h2> Screen shots of the mockup pages <h2>
+<img width="200px" class="rounded float-start pe-4" src="../image/mockupPage1.png">
+  
+  
  
 <p>Are you currently a **student, faculty, or staff** of UH Manoa?<p>
 <p>Do you have unwanted stuff to get rid of?<p>
