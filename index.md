@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Mock-up Ideas](#mock-up)
+* [Mock-up Ideas](#mock-up-ideas)
 * [Team](#team)
 
 ## Overview
