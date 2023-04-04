@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Are you currently a **student, faculty, or staff** of UH Manoa?
+Do you have unwanted stuff to get rid of?
+You want to have extra money to sell your stuff?
+
+If your answer is **YES**, then you are in the right place!
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
