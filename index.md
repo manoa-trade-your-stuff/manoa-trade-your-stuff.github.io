@@ -24,12 +24,15 @@
 <Image src="../image/mockupPage4.png">
 <Image src="../image/mockupPage5.png">
   
+<h2> Team <h2>
+  Manoa Trade Your Stuff is designed and maintained by:
+  - [Hok Wai Chan](https://hokwaichan.github.io/)
+  - [Joel Vanta](https://joelvanta.github.io/)
+  - [Daniel Kim](https://dkim26.github.io/)
+  - [Kairi Tanaka](https://km584.github.io/)
+  
  
 <p>Are you currently a **student, faculty, or staff** of UH Manoa?<p>
 <p>Do you have unwanted stuff to get rid of?<p>
 <p>You want to have extra money to sell your stuff?<p>
 <h2>If your answer is **YES**, then you are in the right place!<h2>
-
-  
-## Team Contract ##  
-https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing
