@@ -30,5 +30,4 @@
   
  
   <h2> Team Contract </h2>
-
-Team Contract link (https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing)
+<a  href="https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing">Team Contract Link</a>
