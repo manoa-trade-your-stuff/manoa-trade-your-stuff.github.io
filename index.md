@@ -28,4 +28,5 @@
 <Image src="../image/mockupPage5.png">
   
  
-
+## Team Contract ##
+https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing
