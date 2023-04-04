@@ -8,7 +8,7 @@ published: true
 
 ---
 
-#Manoa Trade Your Stuff# 
+# Manoa Trade Your Stuff # 
 
 <Image src="https://manoa.hawaii.edu/wp/wp-content/uploads/2020/08/visitors-faqs-hero-1024x585.jpg">
   
