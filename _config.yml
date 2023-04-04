@@ -2,7 +2,7 @@ title: Manoa Trade Your Stuff
 description: By Hok Wai Chan, Joel Vanta, Daniel Kim, Kairi Tanaka <p>Final Project for ICS 314 Spring 2023<p>
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-forty
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff
