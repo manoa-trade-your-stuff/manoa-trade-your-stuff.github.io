@@ -14,10 +14,10 @@ published: true
   
 Contributors: Hok Wai Chan, Joel Vanta, Daniel Kim, Kairi Tanaka
 
-### 1. Overview (including “The problem” and “The solution”) ###
+## 1. Overview (including “The problem” and “The solution”) 
 The goal of the project is to provide a marketplace where UHM students, faculty, and staff can buy and sell campus-specific goods and services in a convenient and efficient manner. The system should allow users to easily browse and search for items they need, as well as create listings for items they want to sell. It should also include features such as user profiles, categories for different types of items, notifications for new listings, and a mechanism for reporting inappropriate behavior. In addition to these basic features, advanced functionalities such as a rating system for buyers and sellers and a map-based interface to locate goods could be implemented to enhance the user experience. The end goal is to create a safe, user-friendly, and effective platform that helps UHM students better recycle and reuse campus-specific goods and services.
 
-### 2. Mockup page ideas ###
+## 2. Mockup page ideas 
 * Landing page
 * User home page
 * Admin home page
@@ -29,10 +29,10 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 * Make offer on item page
 * Notify admin page
 
-### 3. Use case ideas ###
+## 3. Use case ideas 
 
 
-### 4. Beyond the basic ###
+## 4. Beyond the basic 
  
 <p>Are you currently a **student, faculty, or staff** of UH Manoa?<p>
 <p>Do you have unwanted stuff to get rid of?<p>
