@@ -21,7 +21,7 @@ Contributors: Hok Wai Chan, Joel Vanta, Daniel Kim, Kairi Tanaka
 
 
 <h2> Screen shots of the mockup pages <h2>
-<img width="200px" class="rounded float-start pe-4" src="../image/mockupPage1.png">
+<Image src="../image/mockupPage1.png">
   
   
  
