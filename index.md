@@ -1,30 +1,24 @@
 ---
 layout: default
-type: essay
-title: "Final Project Idea"
+type: 
+title: "Manoa Trade Your Stuff"
 # UH Ordering #
-date: 2023-3-28
+date: 2023-4-3
 published: true
-labels:
-  - Software Engineering
-  - Meteor
-  - Bootstrap 5
-  - React
 
 ---
-#Manoa Trade Your Stuff#
+
 
 
 
 <Image src="https://manoa.hawaii.edu/wp/wp-content/uploads/2020/08/visitors-faqs-hero-1024x585.jpg">
 
+#Manoa Trade Your Stuff# 
 <p>Are you currently a **student, faculty, or staff** of UH Manoa?<p>
 <p>Do you have unwanted stuff to get rid of?<p>
 <p>You want to have extra money to sell your stuff?<p>
-
 <h2>If your answer is **YES**, then you are in the right place!<h2>
-
-
+  
 Contributors: Hok Wai Chan, Joel Vanta, Daniel Kim, Kairi Tanaka
 
 ### 1. Overview (including “The problem” and “The solution”) ###
