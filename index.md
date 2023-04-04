@@ -29,3 +29,5 @@
 <p>Do you have unwanted stuff to get rid of?<p>
 <p>You want to have extra money to sell your stuff?<p>
 <h2>If your answer is **YES**, then you are in the right place!<h2>
+  
+https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing
