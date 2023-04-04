@@ -19,7 +19,10 @@
 
 <h2> Screen shots of the mockup pages <h2>
 <Image src="../image/mockupPage1.png">
-  
+<Image src="../image/mockupPage2.png">
+<Image src="../image/mockupPage3.png">
+<Image src="../image/mockupPage4.png">
+<Image src="../image/mockupPage5.png">
   
  
 <p>Are you currently a **student, faculty, or staff** of UH Manoa?<p>
