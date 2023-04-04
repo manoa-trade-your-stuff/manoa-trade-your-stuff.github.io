@@ -28,7 +28,4 @@
 <Image src="../image/mockupPage5.png">
   
  
-<p>Are you currently a **student, faculty, or staff** of UH Manoa?<p>
-<p>Do you have unwanted stuff to get rid of?<p>
-<p>You want to have extra money to sell your stuff?<p>
-<h2>If your answer is **YES**, then you are in the right place!<h2>
+
