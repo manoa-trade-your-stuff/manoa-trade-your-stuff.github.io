@@ -80,3 +80,5 @@ The notify admin page is a page where users can issue complaints. There are two 
 
 <img src="image/projmilestone.png">
 
+<a  href="https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing">M1 project Link</a>
+
