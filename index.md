@@ -26,7 +26,7 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
   
 ## Team
 <img src="image/projteam.png">
-<a  href="https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing">Team Contract Link</a>
+<a  href="https://github.com/orgs/manoa-trade-your-stuff/projects/1/views/1?layout=board">Team Contract Link</a>
 
 ## Landing Page
 The landing page is the main page where any user will be welcomed when first entering the site. They will be welcomed with a welcome text and all they need to do is click on the login button on the navbar. Then they will be prompted to sign in or sign up.
