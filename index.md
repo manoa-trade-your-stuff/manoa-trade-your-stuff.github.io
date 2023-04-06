@@ -47,6 +47,7 @@ The user profile page is a personalized page that displays important information
 <img src="image/userProfilePageMockup.png">
 
 ## Categories page
+The categories page is a hub that organizes various items for sale into different categories, making it easy for users to browse and find what they're looking for. The page is divided into several categories, such as books, clothing and accessories, and electronics, each with its own sub-page. When users upload an item for sale, they can assign it to a specific category and provide all necessary details, such as the price and information about the item. This information is then displayed on the specific category page, allowing other users to easily browse and potentially purchase the item. 
 <img src="image/categoriesPageBookMockup.png">
 <img src="image/categoriesPageClothMockup.png">
 <img src="image/categoriesPageElectronicMockup.png">
