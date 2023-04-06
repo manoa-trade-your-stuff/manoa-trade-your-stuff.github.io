@@ -56,4 +56,7 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 ## Make offer on item page
 <img src="image/projmakeoffer.png">
 
+## Notify Admin page
+<img src="image/projnotifyadmin.png">
+
 
