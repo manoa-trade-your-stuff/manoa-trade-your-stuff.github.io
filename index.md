@@ -11,6 +11,8 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 
 ## Mock-up Ideas
   <li>Landing page</li>
+  <li>Sign-in page</li>
+  <li>Sign-up page</li>
   <li>User home page</li>
   <li>Admin home page</li>
   <li>User Profile page</li>
@@ -26,6 +28,12 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 
 ## Landing Page
 <img src="image/projlanding.png">
+
+## Sign-in Page
+<img src="image/projsignin.png">
+
+## Sign-up Page
+<img src="image/projregister.png">
 
 ## Admin home page
 
