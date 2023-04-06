@@ -55,7 +55,7 @@ The categories page is a hub that organizes various items for sale into differen
 <img src="image/categoriesPageElectronicMockup.png">
 
 ## List an item page
-<img src="image/projlistitem.png">
+<img src="image/projlistitem2.png">
 
 ## Make offer on item page
 <img src="image/projmakeoffer.png">
