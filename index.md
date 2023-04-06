@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Mock-up Ideas](#mock-up-ideas)
 * [Team](#team)
+* [Development History](#development-history)
 
 ## Overview
 The goal of the project is to provide a marketplace where UHM students, faculty, and staff can buy and sell campus-specific goods and services in a convenient and efficient manner. The system should allow users to easily browse and search for items they need, as well as create listings for items they want to sell. It should also include features such as user profiles, categories for different types of items, notifications for new listings, and a mechanism for reporting inappropriate behavior. In addition to these basic features, advanced functionalities such as a rating system for buyers and sellers and a map-based interface to locate goods could be implemented to enhance the user experience. The end goal is to create a safe, user-friendly, and effective platform that helps UHM students better recycle and reuse campus-specific goods and services.
@@ -60,8 +61,12 @@ The categories page is a hub that organizes various items for sale into differen
 <img src="image/categoriesPageElectronicMockup.png">
 
 ## List an item page
+<<<<<<< HEAD
 The list item page is a page where a user can add details and upload an image of the item that they want to sell or auction. There are three descriptions that the user must enter. The first is the Heading which is where the user will enter the name of the description of the item. The next is the condition and this is where the user will describe the condition of the product such as used, good, like new, and new. The next is a category and this is where a user will put the category that matches the item. This will make it easier to organize items based on their category. The user must also enter a photo of the item so that other users can know what it looks like.
 <img src="image/projlistitem.png">
+=======
+<img src="image/projlistitem2.png">
+>>>>>>> 86885566f8aa81b7dcfd76d914089d9c8906df9b
 
 ## Make offer on item page
 The make offer on the item page is a page where a user can offer an amount for an item that they are interested in. Similar to the list item page the title of the item, condition, and image of the item will be on display. There will also be a button where a user can interact to contact the seller if they have any questions or details they may want to ask about the item. Depending on the offer the seller can accept or refuse to depend if the price is reasonable.
@@ -72,4 +77,8 @@ The make offer on the item page is a page where a user can offer an amount for a
 The notify admin page is a page where users can issue complaints. There are two components that need to be filled out. First, the user must enter the users that were involved in the incident. Secondly, the user must describe the whole situation in detail so that the admin can fully understand what the problem is and the best course of action to resolve the issue. After the user inputs all these components they enter a button that will submit it and will send it to the admin for inspection.
 <img src="image/projnotifyadmin.png">
 
+## Development History
+<h4>Milestone 1: Mock up Development</h4>
+
+<img src="image/projmilestone.png">
 
