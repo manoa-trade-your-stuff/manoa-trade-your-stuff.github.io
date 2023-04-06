@@ -30,3 +30,6 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 <img src="image/UserProfilePageMockup.png">
 
 ## Categories page
+<img src="image/categoriesPageBookMockup.png">
+<img src="image/categoriesPageClothMockup.png">
+<img src="image/categoriesPageElectronicMockup.png">
