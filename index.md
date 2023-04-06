@@ -40,6 +40,7 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 <img src="image/projuserpage.png">
 
 ## Admin home page
+The admin home page is similar to the normal user home page, but with a different navigation bar. Administrators are special users with additional privileges, allowing them to monitor user behavior within the system and create new categories or other functionality. The admin home page provides administrators with access to specific tools and features that regular users do not have, empowering them to better manage and improve the system. 
 <img src="image/projadmin.png">
 
 ## User Profile Page
