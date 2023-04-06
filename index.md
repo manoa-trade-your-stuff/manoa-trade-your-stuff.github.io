@@ -62,7 +62,7 @@ The categories page is a hub that organizes various items for sale into differen
 
 ## List an item page
 The list item page is a page where a user can add details and upload an image of the item that they want to sell or auction. There are three descriptions that the user must enter. The first is the Heading which is where the user will enter the name of the description of the item. The next is the condition and this is where the user will describe the condition of the product such as used, good, like new, and new. The next is a category and this is where a user will put the category that matches the item. This will make it easier to organize items based on their category. The user must also enter a photo of the item so that other users can know what it looks like.
-<img src="image/projlistitem.png">
+
 <img src="image/projlistitem2.png">
 
 ## Make offer on item page
