@@ -40,7 +40,7 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 <img src="image/projuserpage.png">
 
 ## Admin home page
-<img src="image/projadminpage.png">
+<img src="image/projadmin.png">
 
 ## User Profile Page
 <img src="image/userProfilePageMockup.png">
