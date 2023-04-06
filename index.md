@@ -50,6 +50,9 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 <img src="image/categoriesPageClothMockup.png">
 <img src="image/categoriesPageElectronicMockup.png">
 
+## List an item page
+<img src="image/projlistitem.png">
+
 ## Make offer on item page
 <img src="image/projmakeoffer.png">
 
