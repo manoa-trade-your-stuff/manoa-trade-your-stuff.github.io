@@ -24,6 +24,7 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
   <li>Notify admin page</li>
   
 ## Team
+<img src="image/projteam.png">
 <a  href="https://docs.google.com/document/d/1DOvsdJkyUgxPniUr7G4ivfmBcsozXm4Yf86d5SVJ0kg/edit?usp=sharing">Team Contract Link</a>
 
 ## Landing Page
