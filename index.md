@@ -61,12 +61,9 @@ The categories page is a hub that organizes various items for sale into differen
 <img src="image/categoriesPageElectronicMockup.png">
 
 ## List an item page
-<<<<<<< HEAD
 The list item page is a page where a user can add details and upload an image of the item that they want to sell or auction. There are three descriptions that the user must enter. The first is the Heading which is where the user will enter the name of the description of the item. The next is the condition and this is where the user will describe the condition of the product such as used, good, like new, and new. The next is a category and this is where a user will put the category that matches the item. This will make it easier to organize items based on their category. The user must also enter a photo of the item so that other users can know what it looks like.
 <img src="image/projlistitem.png">
-=======
 <img src="image/projlistitem2.png">
->>>>>>> 86885566f8aa81b7dcfd76d914089d9c8906df9b
 
 ## Make offer on item page
 The make offer on the item page is a page where a user can offer an amount for an item that they are interested in. Similar to the list item page the title of the item, condition, and image of the item will be on display. There will also be a button where a user can interact to contact the seller if they have any questions or details they may want to ask about the item. Depending on the offer the seller can accept or refuse to depend if the price is reasonable.
