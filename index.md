@@ -83,6 +83,7 @@ The notify admin page is a page where users can issue complaints. There are two 
 
 <h4>Milestone 2: Deployment</h4>
 
+<img src="image/milestone2.png">
 <a  href="https://github.com/orgs/manoa-trade-your-stuff/projects/3/views/1">M2 Project Link</a>
 
 
