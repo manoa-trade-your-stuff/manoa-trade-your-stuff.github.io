@@ -52,7 +52,7 @@ The admin home page is similar to the normal user home page, but with a differen
 
 ## User Profile Page
 The user profile page is a personalized page that displays important information about a user, such as their student ID, name, email, phone number, and position. Users can easily edit their profile by clicking the "Edit Profile" button, which allows them to update their information as needed. The profile page displays the user's recent sales and purchases, giving them a quick and easy way to track their activity. The page includes an "About" section, where users can introduce themselves and provide additional information about their interests, hobbies, or other relevant details. This section provides a great opportunity for users to share more about themselves with their peers and build stronger connections within the community.
-<img src="image/userProfilePageMockup.png">
+<img src="image/profilepage.png">
 
 ## Categories page
 The categories page is a hub that organizes various items for sale into different categories, making it easy for users to browse and find what they're looking for. The page is divided into several categories, such as books, clothing and accessories, and electronics, each with its own sub-page. When users upload an item for sale, they can assign it to a specific category and provide all necessary details, such as the price and information about the item. This information is then displayed on the specific category page, allowing other users to easily browse and potentially purchase the item. 
