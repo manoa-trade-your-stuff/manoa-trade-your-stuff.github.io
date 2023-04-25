@@ -48,7 +48,7 @@ The user home page provides users with a personalized experience where it is uni
 
 ## Admin home page
 The admin home page is similar to the normal user home page, but with a different navigation bar. Administrators are special users with additional privileges, allowing them to monitor user behavior within the system and create new categories or other functionality. The admin home page provides administrators with access to specific tools and features that regular users do not have, allowing them to better manage and improve the system. 
-<img src="image/projadmin.png">
+<img src="image/adminhome.png">
 
 ## User Profile Page
 The user profile page is a personalized page that displays important information about a user, such as their student ID, name, email, phone number, and position. Users can easily edit their profile by clicking the "Edit Profile" button, which allows them to update their information as needed. The profile page displays the user's recent sales and purchases, giving them a quick and easy way to track their activity. The page includes an "About" section, where users can introduce themselves and provide additional information about their interests, hobbies, or other relevant details. This section provides a great opportunity for users to share more about themselves with their peers and build stronger connections within the community.
@@ -56,10 +56,7 @@ The user profile page is a personalized page that displays important information
 
 ## Categories page
 The categories page is a hub that organizes various items for sale into different categories, making it easy for users to browse and find what they're looking for. The page is divided into several categories, such as books, clothing and accessories, and electronics, each with its own sub-page. When users upload an item for sale, they can assign it to a specific category and provide all necessary details, such as the price and information about the item. This information is then displayed on the specific category page, allowing other users to easily browse and potentially purchase the item. 
-<img src="image/categoriesPageBookMockup.png">
-<img src="image/categoriesPageClothMockup.png">
-<img src="image/categoriesPageElectronicMockup.png">
-<img src="image/Category page.png">
+<img src="image/categorylist.png">
 
 ## List an item page
 The list item page is a page where a user can add details and upload an image of the item that they want to sell or auction. There are three descriptions that the user must enter. The first is the Heading which is where the user will enter the name of the description of the item. The next is the condition and this is where the user will describe the condition of the product such as used, good, like new, and new. The next is a category and this is where a user will put the category that matches the item. This will make it easier to organize items based on their category. The user must also enter a photo of the item so that other users can know what it looks like.
