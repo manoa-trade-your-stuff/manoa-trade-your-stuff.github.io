@@ -88,7 +88,7 @@ The notify admin page is a page where users can issue complaints. There are two 
 
 <h4>Milestone 3: </h4>
 
-<img src="image/milestone3.png">
+<img src="image/M3projectboard.png">
 <a  href="https://github.com/orgs/manoa-trade-your-stuff/projects/4">M3 Project Link</a>
 
 <a  href="[http://46.101.98.211/](https://manoatradeyourstuff.site/)">Running App link</a>
