@@ -5,7 +5,7 @@
 * [Overview](#overview)
 * [Mock-up Ideas](#mock-up-ideas)
 * [Team](#team)
-* [Devloper Guide](#develper-guide)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 
 ## Overview
