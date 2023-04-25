@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Mock-up Ideas](#mock-up-ideas)
 * [Team](#team)
+* [Devloper Guide](#develper-guide)
 * [Development History](#development-history)
 
 ## Overview
@@ -71,6 +72,14 @@ The make offer on the item page is a page where a user can offer an amount for a
 ## Notify Admin page
 The notify admin page is a page where users can issue complaints. There are two components that need to be filled out. First, the user must enter the users that were involved in the incident. Secondly, the user must describe the whole situation in detail so that the admin can fully understand what the problem is and the best course of action to resolve the issue. After the user inputs all these components they enter a button that will submit it and will send it to the admin for inspection.
 <img src="image/filecomplaint.png">
+
+## Developer Guide
+For developers who like to use our projects as template, here is instruction to get started:
+
+1. Visit to out [Manoa Trade Your Stuff](https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff-page/tree/main) and click on green button it says 'code' to make clone application your local.
+2. Use the terminal, change directory to app and inside app directory install meteor code: $ meteor npm install
+3. After finish install meteor, it could run application by runs: $ meteor npm run start
+4. It will gives link of application at [http://localhost:3000]
 
 ## Development History
 <h4>Milestone 1: Mock up Development</h4>
