@@ -79,7 +79,7 @@ For developers who like to use our projects as template, here is instruction to 
 1. Visit to out [Manoa Trade Your Stuff](https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff-page/tree/main) and click on green button it says 'code' to make clone application your local.
 2. Use the terminal, change directory to app and inside app directory install meteor code: $ meteor npm install
 3. After finish install meteor, it could run application by runs: $ meteor npm run start
-4. It will gives link of application at [http://localhost:3000]
+4. It will gives link of application at http://localhost:3000
 
 ## Development History
 <h4>Milestone 1: Mock up Development</h4>
