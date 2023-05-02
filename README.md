@@ -1,3 +1,3 @@
 # manoa-trade-your-stuff.github.io
 
-![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+![ci-badge](https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff-page/workflows/ci-meteor-application-template-react/badge.svg)
