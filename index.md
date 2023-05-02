@@ -12,19 +12,20 @@
 The goal of the project is to provide a marketplace where UHM students, faculty, and staff can buy and sell campus-specific goods and services in a convenient and efficient manner. The system should allow users to easily browse and search for items they need, as well as create listings for items they want to sell. It should also include features such as user profiles, categories for different types of items, notifications for new listings, and a mechanism for reporting inappropriate behavior. In addition to these basic features, advanced functionalities such as a rating system for buyers and sellers and a map-based interface to locate goods could be implemented to enhance the user experience. The end goal is to create a safe, user-friendly, and effective platform that helps UHM students better recycle and reuse campus-specific goods and services.
 
 ## Mock-up Ideas
+  <li>Team</li>
   <li>Landing page</li>
   <li>Sign-in page</li>
   <li>Sign-up page</li>
+  <li>Add Profile Page</li>
   <li>User home page</li>
   <li>Admin home page</li>
   <li>User Profile page</li>
   <li>Categories page</li>
   <li>Item List page</li>
-  <li>Category page</li>
-  <li>List Item page</li>
-  <li>Create item page</li>
-  <li>Make offer on item page</li>
+  <li>Add item page</li>
   <li>Notify admin page</li>
+  <li>Developer Guide</li>
+  <li>Development History</li>
   <li>Community Feedback</li>
   
 ## Team
@@ -69,7 +70,7 @@ The categories page is a hub that organizes various items for sale into differen
 The item list page serves as a hub for users to browse and search for items they are interested in. It is linked to the categories page, allowing users to easily filter and navigate to specific types of items. Upon selecting a category, the page displays a list of relevant items with key information such as the seller's details, pricing, and any other relevant details. This makes it easy for users to quickly find the items they are looking for and make informed purchase decisions.
 <img src="image/itemlist.png">
 
-## List an item page 
+## Add item page 
 The list item page is a page where a user can add details and upload an image of the item that they want to sell or auction. There are three descriptions that the user must enter. The first is the Heading which is where the user will enter the name of the description of the item. The next is the condition and this is where the user will describe the condition of the product such as used, good, like new, and new. The next is a category and this is where a user will put the category that matches the item. This will make it easier to organize items based on their category. The user must also enter a photo of the item so that other users can know what it looks like.
 <img src="image/additem.png">
 
