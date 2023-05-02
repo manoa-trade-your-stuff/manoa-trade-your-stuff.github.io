@@ -34,16 +34,15 @@ The goal of the project is to provide a marketplace where UHM students, faculty,
 
 ## Landing Page
 The landing page is the main page where any user will be welcomed when first entering the site. They will be welcomed with a welcome text and all they need to do is click on the login button on the navbar. Then they will be prompted to sign in or sign up.
-
 <img src="image/projlanding.png">
 
 ## Sign-in Page
 The sign-in page is where a returning user will go and all they need to do is input their email and password then hit submit. After that, they will be sent to their user home page.
-<img src="image/projsignin.png">
+<img src="image/signin.png">
 
 ## Sign-up Page
 The sign-up page is where a new user will go and all they need to do is input their email and password then hit submit. After that, they will be sent to their user home page.
-<img src="image/projregister.png">
+<img src="image/signup.png">
 
 ## Add Profile Page
 The add profile page is a necessary step for first-time users to register and create their profile. It ensures that important information about the user is captured and stored in the system. Once created, users can modify their profile at any time to keep it up-to-date with their changing preferences, interests, or personal details.
