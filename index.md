@@ -118,3 +118,5 @@ For developers who like to use our projects as template, here is instruction to 
 5. The website has great functionality. Very self explanatory, very easy to figure out how to use. The web design is very nice and simple. (Kristine Ordilla, ICS student)
 
 [![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
+
+![ci-badge](https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff-page/workflows/ci-manoa-trade-your-stuff-page/badge.svg)
