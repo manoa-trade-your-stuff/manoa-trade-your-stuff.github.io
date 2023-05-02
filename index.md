@@ -107,18 +107,13 @@ For developers who like to use our projects as template, here is instruction to 
 
 ## Community Feedback
 
-1. Great! Definitely would use! Easy to navigate. Super easy and very functional. Spotless
-  - Rylie Waldron, Communicology student
+1. Great! Definitely would use! Easy to navigate. Super easy and very functional. Spotless (Rylie Waldron, Communicology student)
   
-2. Nice site, easy to use, add seller on report, make pics of categories uniform, very functional, easy to navigate, good look.
-  - Lana Fukuda, Philosophy student
+2. Nice site, easy to use, add seller on report, make pics of categories uniform, very functional, easy to navigate, good look. (Lana Fukuda, Philosophy student)
 
-3. Very easy to use and organized. Also very much needed for college students. Could use better for future for scams. Good. Easy to navigate.
-  - Helly Sinclar, Biology student
+3. Very easy to use and organized. Also very much needed for college students. Could use better for future for scams. Good. Easy to navigate. (Helly Sinclar, Biology student)
   
-4. Very clean and easy to navigate across different tabs. A website that is very creative in which I would use for personal use. Good. Everything is symmetrically inlined with each other and visually appealing.
-  - Bobby Roth, ICS student
+4. Very clean and easy to navigate across different tabs. A website that is very creative in which I would use for personal use. Good. Everything is symmetrically inlined with each other and visually appealing. (Bobby Roth, ICS student)
 
-5. The website has great functionality. Very self explanatory, very easy to figure out how to use. The web design is very nice and simple.
-  - Kristine Ordilla, ICS student
+5. The website has great functionality. Very self explanatory, very easy to figure out how to use. The web design is very nice and simple. (Kristine Ordilla, ICS student)
 
