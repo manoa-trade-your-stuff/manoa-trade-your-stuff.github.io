@@ -119,4 +119,4 @@ For developers who like to use our projects as template, here is instruction to 
 
 [![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
 
-![ci-badge](https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff-page/workflows/ci-manoa-trade-your-stuff-page/badge.svg)
+![ci-badge](https://github.com/manoa-trade-your-stuff/manoa-trade-your-stuff-page/workflows/ci-manoa-trade-your-stuff/badge.svg)
